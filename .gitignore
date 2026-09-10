@@ -8,3 +8,8 @@ wheels/
 
 # Virtual environments
 .venv
+
+.env
+.idea/
+.DS_Store
+.pytest_cache/
